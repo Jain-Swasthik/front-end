@@ -1,6 +1,10 @@
 
 Simple Omelette Recipe Page
 
+![image](https://github.com/user-attachments/assets/fa022ce0-b8ae-419c-96ce-8fb9e500ec6e)  ![image](https://github.com/user-attachments/assets/1e3f5542-334c-49d7-b886-e2499cff54ec)
+
+
+
 Overview
 This project is a recipe page for a simple omelette. The goal is to create a clean and responsive web page that displays a recipe, preparation time, ingredients, instructions, and nutritional information.
 

@@ -16,20 +16,8 @@ Well-organized sections including preparation time, ingredients, instructions, a
 Technologies Used
     HTML
     CSS
-    Google Fonts (Young Serif and Outfit)
 
-Fonts
-
-    Family: Young Serif
-    Weights: 400
-    Family: Outfit
-    Weights: 400, 600, 700
-
-
-Installation
-
-No installation is required. Simply clone or download the repository and open index.html in your web browser.
-
+ 
 Usage
 
     Open the index.html file in your web browser.
